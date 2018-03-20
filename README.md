@@ -1,2 +1,13 @@
-# Kendrick-Lamar-Message-Board
-A app where you can create a login and leave messages with others in a database that can store the messages.
+## Installation
+
+1. Clone repo
+2. run `npm install`
+
+## Usage
+
+1. run `node server.js`
+2. Navigate to `localhost:8080`
+
+## Credit
+
+Modified from Scotch.io's auth tutorial

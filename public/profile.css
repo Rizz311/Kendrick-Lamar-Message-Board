@@ -1,0 +1,10 @@
+body{
+  background-color: cyan;
+}
+.welcome{
+  height: 90px;
+  width: 100px;
+}
+.well{
+  width: 100%;
+}
